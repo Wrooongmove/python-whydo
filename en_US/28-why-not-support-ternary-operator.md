@@ -1,6 +1,6 @@
 # Why don't Python, Go and Rust have the ternary conditional operator?
 
-The ternary operator is a common syntax shortcut used in many programming languages to simplify conditional logic by allowing developers to execute different blocks of code based on specific conditions. However, Python, as well as two emerging popular languages, Go and Rust, do not have a ternary conditional operator.
+The ternary operator is a common syntax shortcut used in many programming languages to simplify conditional logic by allowing developers to execute different blocks of code based on specific conditions. However, Python, as well as two emerging popular languages, Go and Rust, do not have a ternary conditional operator. ok but why?
 
 In this article, we will analyze the process of Python designing its conditional expression syntax and explain why it adopted its current unique implementation. We will also examine why other languages have abandoned ternary traditional operator.
 
